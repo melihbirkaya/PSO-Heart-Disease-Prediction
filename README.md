@@ -1,6 +1,6 @@
 # PSO Tabanlı Özellik Seçimi ile Kalp Hastalığı Tahmini
 
-## Proje Hakkında
+## Proje Hakkında 
 
 Bu çalışma Kırıkkale Üniversitesi Elektrik-Elektronik Mühendisliği bölümü kapsamında Optimizasyon Teknikleri dersi için hazırlanmıştır.
 
